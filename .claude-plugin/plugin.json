@@ -9,6 +9,9 @@
   },
   "homepage": "https://wakeout.app/claude",
   "privacyPolicyUrl": "https://wakeout.app/privacy#claude",
+  "documentationUrl": "https://wakeout.app/claude",
+  "supportUrl": "https://help.wakeout.app",
+  "termsOfServiceUrl": "https://wakeout.app/terms",
   "repository": "https://github.com/Wakeout/wakeout-claude-plugin",
   "license": "MIT",
   "keywords": [
