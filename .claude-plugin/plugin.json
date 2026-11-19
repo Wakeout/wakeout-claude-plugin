@@ -1,0 +1,24 @@
+{
+  "name": "wakeout",
+  "version": "1.0.0",
+  "description": "One-minute guided movement breaks in the chat: a video for each move and a timer, seated or standing, in 16 languages.",
+  "author": {
+    "name": "Wakeout LLC",
+    "email": "hello@wakeout.co",
+    "url": "https://wakeout.app"
+  },
+  "homepage": "https://wakeout.app/claude",
+  "privacyPolicyUrl": "https://wakeout.app/privacy#claude",
+  "repository": "https://github.com/Wakeout/wakeout-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "movement break",
+    "desk stretches",
+    "sitting too long",
+    "neck and shoulders",
+    "energy break",
+    "pomodoro break",
+    "chair exercises",
+    "standing break"
+  ]
+}

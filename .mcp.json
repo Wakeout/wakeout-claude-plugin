@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wakeout": {
+      "type": "http",
+      "url": "https://mcp.wakeout.app/claude"
+    }
+  }
+}
